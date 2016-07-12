@@ -1,0 +1,2 @@
+import math
+print 1000000 - 2* math.factorial(9) - 6*math.factorial(8) - 6*math.factorial(7) - 2*math.factorial(6) - 5*math.factorial(5) - 1*math.factorial(4) - 2*math.factorial(3) - 2*math.factorial(2)
